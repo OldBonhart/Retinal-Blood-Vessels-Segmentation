@@ -4,7 +4,7 @@
 Automatic segmentation of medical images is an important step to extract useful information that can help doctors make a diagnosis. For example, it can be used to segment retinal vessels so that we can represent their structure and measure their width which in turn can help diagnose retinal diseases.
 
 ### Data
-Available here https://hzfu.github.io/proj_deepvessel.html
+Available [here](https://hzfu.github.io/proj_deepvessel.html)
 
 ### Formulation of the problem:
 Each pixel must be labeled “1” if it is part of a blood vessel in the image, and “0” if not.
